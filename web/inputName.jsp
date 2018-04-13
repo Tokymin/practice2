@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<form action="people.jsp" method="get" name="form">
+<form action="people.jsp" method="post" name="form">
     «Î ‰»Î–’√˚£∫<input type="text" name="name" id="1">
     <br><input type="submit" value="ÀÕ≥ˆ" name="submit">
 </form>
